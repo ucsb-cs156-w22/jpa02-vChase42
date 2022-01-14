@@ -3,7 +3,7 @@
 Repo: https://github.com/ucsb-cs156-w22/jpa02-vChase42
 
 
-On Heroku: https://jpa02-vchase42.herokuapp.com/
+On Heroku: https://jpa02-chasten.herokuapp.com/
 
 * TODO: Correct the links to codecov report below
   then delete this TODO.  Replace it with 
