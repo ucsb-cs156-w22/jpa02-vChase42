@@ -9,7 +9,7 @@ On Heroku: https://jpa02-vchase42.herokuapp.com/
   then delete this TODO.  Replace it with 
   a link to your codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-cgaucho
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-w22/jpa02-vchase42
 
 
 # About this repo
